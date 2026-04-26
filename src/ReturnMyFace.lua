@@ -32,10 +32,7 @@ type HeadStorageEntry = {
 }
 
 -- Objects
-local Storage = script:FindFirstChild("storage") or Instance.new("Folder")
-Storage.Name = "storage"
-Storage.Parent = script
-
+local Storage = script.storage
 local HeadTemplate = script:WaitForChild("Head")
 
 -- Modules
