@@ -4,7 +4,7 @@
 --!native
 --!optimize 2
 
--- BinVersion; 2
+-- BinVersion; 1 (Earliest)
 -- BinVersions may change in the future due to the removal or addition of new faces,
 -- To reduce the reliance on the external bin.
 
@@ -87,6 +87,7 @@ function bin.load(): typeof(bin)
 	addToBin(15938951781, 7699086, "http://www.roblox.com/asset/?id=") -- Silly fun
 	addToBin(10725826963, 83017053, "http://www.roblox.com/asset/?id=") -- Man face
 	addToBin(11308945948, 7074780, "http://www.roblox.com/asset/?id=") -- Check it
+	
 	addToBin(99892364304434, 20052028, "http://www.roblox.com/asset/?id=") -- Prankster
 	addToBin(99138878800007, 10749405, "http://www.roblox.com/asset/?id=") -- The Big Dog
 	addToBin(98353090718045, 7046277, "http://www.roblox.com/asset/?id=") -- O.o
@@ -95,11 +96,16 @@ function bin.load(): typeof(bin)
 	addToBin(97428175809716, 10678229, "http://www.roblox.com/asset/?id=") -- Bad Dog
 	addToBin(97352029854318, 142888113, "http://www.roblox.com/asset/?id=") -- Hockey Face
 	addToBin(97339078460937, 12777582, "http://www.roblox.com/asset/?id=") -- Blerg!
+	
 	addToBin(97094889503964, 15470952, "rbxassetid://") -- :/
+	
 	addToBin(96928121761099, 7076096, "http://www.roblox.com/asset/?id=") -- Chubs
 	addToBin(96229607001945, 629929484, "http://www.roblox.com/asset/?id=") -- Bad News Face
+	
 	addToBin(96101353612737, 10747452, "http://www.roblox.com/asset/?id=") -- Skeletar
+	
 	addToBin(95846667626495, 17137977, "http://www.roblox.com/asset/?id=") -- D=
+	
 	addToBin(95632914046000, 29347988, "http://www.roblox.com/asset/?id=") -- Lady Lashes
 	addToBin(94278862042697, 3267470325, "rbxassetid://") -- Beaming with Pride
 	addToBin(94018341473036, 7074932, "http://www.roblox.com/asset/?id=") -- Uh Oh
@@ -162,7 +168,9 @@ function bin.load(): typeof(bin)
 	addToBin(71685666613880, 7506008, "http://www.roblox.com/asset/?id=") -- Blinky
 	addToBin(70816272422225, 2222768690, "rbxassetid://") -- Blue Starry Sight
 	addToBin(70749170595877, 2620489144, "rbxassetid://") -- Sparkle Time Sparkle Eyes
+	
 	addToBin(70555769783156, 14817231, "http://www.roblox.com/asset/?id=") -- =)
+	
 	addToBin(16042049101, 236455674, "http://www.roblox.com/asset/?id=") -- Happy Wink
 	addToBin(16041877976, 7317606, "http://www.roblox.com/asset/?id=") -- Good Intentioned
 	addToBin(15555890394, 7074712, "http://www.roblox.com/asset/?id=") -- Glee
@@ -171,8 +179,10 @@ function bin.load(): typeof(bin)
 	addToBin(15381635341, 7075492, "http://www.roblox.com/asset/?id=") -- Lazy Eye
 	addToBin(15381595196, 23931977, "http://www.roblox.com/asset/?id=") -- Awkward....
 	addToBin(15381533776, 26260786, "http://www.roblox.com/asset/?id=") -- Scarecrow
+	
 	addToBin(15093427659, 14861556, "http://www.roblox.com/asset/?id=") -- :P
 	addToBin(14719537379, 15431991, "http://www.roblox.com/asset/?id=") -- :3
+	
 	addToBin(14532846222, 31117192, "http://www.roblox.com/asset/?id=") -- Skeptic
 	addToBin(14525311372, 15885042, "http://www.roblox.com/asset/?id=") -- Cutiemouse
 	addToBin(14525047012, 7506025, "http://www.roblox.com/asset/?id=") -- It's Go Time!
@@ -230,7 +240,9 @@ function bin.load(): typeof(bin)
 	addToBin(136298162773288, 2409281591, "rbxassetid://") -- Playful Vampire
 	addToBin(134907598627848, 27861351, "http://www.roblox.com/asset/?id=") -- Hilarious
 	addToBin(134905828551194, 30394437, "http://www.roblox.com/asset/?id=") -- Friendly Cyclops
+	
 	addToBin(134781151861347, 14812835, "http://www.roblox.com/asset/?id=") -- D:
+	
 	addToBin(134296548822003, 8329421, "http://www.roblox.com/asset/?id=") -- ZOMG
 	addToBin(133805065130462, 147144273, "http://www.roblox.com/asset/?id=") -- Bluffing
 	addToBin(133345802828839, 22828283, "http://www.roblox.com/asset/?id=") -- Wink-Blink
@@ -251,7 +263,9 @@ function bin.load(): typeof(bin)
 	addToBin(12945410659, 30394483, "http://www.roblox.com/asset/?id=") -- Braces
 	addToBin(12939347925, 26424652, "http://www.roblox.com/asset/?id=") -- Know-It-All Grin
 	addToBin(12937204578, 226216895, "http://www.roblox.com/asset/?id=") -- Laughing Fun
+	
 	addToBin(12937095639, 18151722, "http://www.roblox.com/asset/?id=") -- :]
+	
 	addToBin(12936972483, 7987146198, "rbxassetid://") -- Big Grin - Tai Verdes
 	addToBin(12936650534, 7893435035, "rbxassetid://") -- Cat Eye - Zara Larsson
 	addToBin(129203805231474, 10749449, "http://www.roblox.com/asset/?id=") -- I wuv u
@@ -331,26 +345,6 @@ function bin.load(): typeof(bin)
 	addToBin(103521036104932, 158017769, "http://www.roblox.com/asset/?id=") -- Classic Alien Face
 	addToBin(102175552451130, 7699096, "http://www.roblox.com/asset/?id=") -- Frightful
 	addToBin(101398692064661, 7131857, "http://www.roblox.com/asset/?id=") -- I Am Not Amused
-	
-	-- v2
-	addToBin(13682084865, 6531805594, "rbxassetid://") -- Award Winning Smile
-	addToBin(131610962654668, 1772583132, "rbxassetid://") -- Upside Down Face
-	addToBin(93075310246069, 42070872, "http://www.roblox.com/asset/?id=") -- Epic Face
-	addToBin(122448471631157, 181661839, "http://www.roblox.com/asset/?id=") -- Epic Vampire Face
-	addToBin(12930215322, 292668540, "http://www.roblox.com/asset/?id=") -- Lin's Face
-	
-	--addToBin(0000000000, 0000000, "http://www.roblox.com/asset/?id=") -- AAAA
-	--addToBin(0000000000, 0000000, "http://www.roblox.com/asset/?id=") -- AAAA
-	--addToBin(0000000000, 0000000, "http://www.roblox.com/asset/?id=") -- AAAA
-	--addToBin(0000000000, 0000000, "http://www.roblox.com/asset/?id=") -- AAAA
-	--addToBin(0000000000, 0000000, "http://www.roblox.com/asset/?id=") -- AAAA
-	--addToBin(0000000000, 0000000, "http://www.roblox.com/asset/?id=") -- AAAA
-	--addToBin(0000000000, 0000000, "http://www.roblox.com/asset/?id=") -- AAAA
-	--addToBin(0000000000, 0000000, "http://www.roblox.com/asset/?id=") -- AAAA
-	--addToBin(0000000000, 0000000, "http://www.roblox.com/asset/?id=") -- AAAA
-	--addToBin(0000000000, 0000000, "http://www.roblox.com/asset/?id=") -- AAAA
-	--addToBin(0000000000, 0000000, "http://www.roblox.com/asset/?id=") -- AAAA
-	--addToBin(0000000000, 0000000, "http://www.roblox.com/asset/?id=") -- AAAA
 	
 	debug.profileend()
 	return bin
